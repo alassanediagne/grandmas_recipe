@@ -1,7 +1,7 @@
 # grandmas_recipe
 Grandma's recipe from "Indra's Pearls"
 
-by Alassane Diagne and Aysegül Peközsoy
+by Alassane Diagne and Aysegül Peközsoy for the seminar "Illustrating Mathematics" at Heidelberg University SS 2022
 
 This program performs Grandma's recipe from "Indra's Pearls" by David Mumford, Caroline Series and David Wright. The algorithm can be found on p.227.
 
